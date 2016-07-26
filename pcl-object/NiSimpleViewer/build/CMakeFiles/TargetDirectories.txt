@@ -1,0 +1,1 @@
+/home/howard/depth/pcl-object/NiSimpleViewer/build/CMakeFiles/ni.dir

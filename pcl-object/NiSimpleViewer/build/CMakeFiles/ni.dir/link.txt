@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/ni.dir/NiSimpleViewer.cpp.o  -o ni -rdynamic 

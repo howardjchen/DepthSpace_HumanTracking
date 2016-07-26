@@ -1,0 +1,1 @@
+/home/howard/depth/trackingball/build/CMakeFiles/tracking.dir

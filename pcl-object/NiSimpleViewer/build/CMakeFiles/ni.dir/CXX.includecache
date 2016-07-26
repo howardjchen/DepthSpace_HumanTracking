@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/howard/depth/pcl-object/NiSimpleViewer/NiSimpleViewer.cpp
+XnOS.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+math.h
+-
+XnCppWrapper.h
+-
+
